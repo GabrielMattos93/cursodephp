@@ -8,14 +8,21 @@ O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o p
 <pre>
 </pre>
 </details>
+
 ---
+
 <details>
-<summary>eção 2: Conceitos básicos de PHP</summary>
+<summary>Seção 2: Conceitos básicos de PHP</summary>
 <br>
-*Case Sensitive*
 <br><br>
 <pre>
-*Case Sensitive
+[] 1-Case Sensitive
+Instrucao de código
+Espaço em Branco
+Comentários
+Exercício
+Palavras Reservadas
+
 </pre>
 </details>
 
