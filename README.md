@@ -174,7 +174,30 @@ O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o p
 </pre>
 </details>
 
-#### Seção 9: Funções
+---
+
+<details>
+<summary>Seção 9: Funções</summary>
+<br>
+<br><br>
+<pre>
+1-Estrutura de Função
+2-Chamando Função
+3-Exercício 1
+4-Exercício 2
+5-Parâmentro de função
+6-Exercício 3
+7-Exercício 4
+8-Retorno de função
+9-Exercício 5
+10-Paramentro Default 
+11-Exercício 6
+12-Argumento de Funções
+13-Exercício 7
+14-Multiplos retornos
+15-Var_Dump e Print_r
+</pre>
+</details>
 
 #### Seção 10: Avançando em Strings
 
