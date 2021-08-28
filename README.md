@@ -4,9 +4,12 @@
 
 #### Seção 2: Conceitos Básicos
 
-#### Seção 3: Tipos de Dados
-
-#### Seção 4: Variáveis
+<details>
+<summary>Olá mundo</sumary>
+<br>
+Olá mundo drop
+</details>
+#### Seção 4: Variáveis.
 
 #### Seção 5: Expressões e Operadores
 
