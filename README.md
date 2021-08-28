@@ -1,7 +1,6 @@
 # Curso de PHP do Básico ao Avançado
 
 #### Seção 1: Introdução
-
 #### Seção 2: Conceitos Básicos
 
 #### Seção 3: Tipos de Dados
@@ -19,6 +18,4 @@
 #### Seção 11: Avançando em Arrays
 
 #### Seção 12: Orientação a Objetos
-
-
 
