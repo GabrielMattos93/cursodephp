@@ -5,14 +5,6 @@
 <br>
 O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o php em localhost
 <br><br>
-<pre>
-&lt;details&gt;
-&lt;summary&gt;How do I dropdown?&lt;&#47;summary&gt;
-&lt;br&gt;
-This is how you dropdown.
-&lt;&#47;details&gt;
-</pre>
-</details>
 
 #### Seção 4: Variáveis.
 
