@@ -234,6 +234,8 @@ O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o p
 </pre>
 </details>
 
+---
+
 <details>
 <summary>Seção 11: Avançando em Arrays</summary>
 <br>
