@@ -16,12 +16,12 @@ O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o p
 <br>
 <br><br>
 <pre>
-[] 1-Case Sensitive
-Instrucao de código
-Espaço em Branco
-Comentários
-Exercício
-Palavras Reservadas
+1-Case Sensitive
+2-Instrucao de código
+3-Espaço em Branco
+4-Comentários
+5-Exercício
+6-Palavras Reservadas
 
 </pre>
 </details>
