@@ -275,4 +275,15 @@ O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o p
 </details>
 
 
-#### Seção 12: Orientação a Objetos
+---
+
+<details>
+<summary>Seção 12: Introdução a Orientação a Objetos</summary>
+<br>
+<br><br>
+<pre>
+1-
+
+</pre>
+</details>
+
