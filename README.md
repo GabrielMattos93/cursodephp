@@ -112,7 +112,27 @@ O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o p
 </pre>
 </details>
 
-#### Seção 6: Estruturas de Controle
+---
+
+<details>
+<summary>Seção 6: Estruturas de Controle</summary>
+<br>
+<br><br>
+<pre>
+1-Estrutura IF
+2-Exercício 1
+3-Exercício 2
+4-Estrutura Else
+5-Exercício 3
+6-Exercício 4
+7-Exercício b5
+8-If Aninhado 
+9-Exercício 6
+10-Else If
+11-Exercício 7
+12-Estrutura Switch
+</pre>
+</details>
 
 #### Seção 7: Estruturas de Repetição
 
