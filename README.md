@@ -26,6 +26,33 @@ O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o p
 </pre>
 </details>
 
+---
+
+<details>
+<summary>Seção 3: Tipo de Dados</summary>
+<br>
+<br><br>
+<pre>
+1-Numeros Inteiros
+2-Exercícios 1
+3-Verificando se um dado é inteiro
+4-Floats
+5-Verificando se um dado é float
+6-Exercícios 2 
+7-Strings
+8-Verificando se o dado é uma string
+9-Exercícios 3
+10-Boolean
+11-Verificando se um dado é boolean
+12-Arrays
+13-Arrays Associativo
+14-Exercício Desafio
+15-Exercício 4
+16-Objetos
+17-Dados Null 
+</pre>
+</details>
+
 #### Seção 4: Variáveis.
 
 #### Seção 5: Expressões e Operadores
