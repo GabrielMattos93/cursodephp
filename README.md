@@ -234,6 +234,43 @@ O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o p
 </pre>
 </details>
 
-#### Seção 11: Avançando em Arrays
+<details>
+<summary>Seção 11: Avançando em Arrays</summary>
+<br>
+<br><br>
+<pre>
+1-Adicionando dados
+2-Adicionando ao fim do array
+3-range
+4-Exercício 1
+5-Número de elementos
+6-Array Multidimensional
+7-Exercício 2
+8-Função list
+9-Exercício 3
+10-Array slice
+11-Array chunk
+12-Chaves e Valores
+13-Verificando se a chave existe
+14-Array splice
+15-Exercício 4
+16-extract
+17-Compact
+18-Exercício 5
+19-Foreach e Arrays
+20-Exercício 6
+21-Array reduce
+22-in_array
+23-Ordenação de Arrays
+24-Ordenação de arrays associativo
+25-Exercício 7
+26-array_reverse
+27-array_aleatorio
+28-array_sum
+29-array_merge
+30-array_diff
+</pre>
+</details>
+
 
 #### Seção 12: Orientação a Objetos
