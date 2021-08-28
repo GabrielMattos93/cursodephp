@@ -134,7 +134,29 @@ O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o p
 </pre>
 </details>
 
-#### Seção 7: Estruturas de Repetição
+---
+
+<details>
+<summary>Seção 7: Estruturas de Repetição</summary>
+<br>
+<br><br>
+<pre>
+1-Estrutura While
+2-Exercício 1
+3-Break
+4-Exercício 2
+5-Loop Aninhado
+6-Continue em Loops
+7-Exercício 3
+8-Do While 
+9-For
+10-Exercício 4 
+11-Exercício 5
+12-Exercício 6
+13-Problema do Loop infinito
+14-Foreach
+</pre>
+</details>
 
 #### Seção 8: Inclusão de Código
 
