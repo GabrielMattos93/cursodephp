@@ -158,7 +158,21 @@ O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o p
 </pre>
 </details>
 
-#### Seção 8: Inclusão de Código
+---
+
+<details>
+<summary>Seção 8: Inclusão de Código</summary>
+<br>
+<br><br>
+<pre>
+1-Include
+2-Require
+3-include_once e require_once
+4-Short Tags
+5-Exibição de Conteúdo
+6-PHP e Html
+</pre>
+</details>
 
 #### Seção 9: Funções
 
