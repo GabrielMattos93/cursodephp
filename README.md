@@ -1,10 +1,9 @@
 # Curso de PHP do Básico ao Avançado
 
-#### Seção 1: Introdução
 <details>
-<summary>How do I dropdown?</summary>
+<summary>Seção 1: Introdução</summary>
 <br>
-This is how you dropdown.
+O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o php em localhost
 <br><br>
 <pre>
 &lt;details&gt;
