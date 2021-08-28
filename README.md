@@ -23,8 +23,3 @@
 #### Seção 11: Avançando em Arrays
 
 #### Seção 12: Orientação a Objetos
-
-<<<<<<< HEAD
-=======
-
->>>>>>> c5c0da4b96b7ef056541d6e73163f4aa05499832
