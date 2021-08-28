@@ -6,7 +6,16 @@
 O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o php em localhost
 <br><br>
 <pre>
-
+</pre>
+</details>
+---
+<details>
+<summary>eção 2: Conceitos básicos de PHP</summary>
+<br>
+*Case Sensitive*
+<br><br>
+<pre>
+*Case Sensitive
 </pre>
 </details>
 
