@@ -199,7 +199,40 @@ O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o p
 </pre>
 </details>
 
-#### Seção 10: Avançando em Strings
+---
+
+<details>
+<summary>Seção 10: Avançando em Strings</summary>
+<br>
+<br><br>
+<pre>
+1-Interpolando Variáveis
+2-Valores do Escape
+3-Exercício 1
+4-Função Print
+5-Printf
+6-Função Strlen
+7-Percorrendo String
+8-Exercício 2
+9-Limpando String
+10-Alterando Case
+11-Case de Palavras
+12-Exercício 3
+13-Removendo Tag Html
+14-Resgatando Partes de String
+15-Exercício 4 
+16-Invertendo String
+17-Repetindo Strings
+18-Convertendo Strings em Arrays
+19-Exercício 5
+20-Array para String
+21-Exercício 6
+22-Encontrando String
+23-Encontrando Ultima ocorrência
+24-Retorno de String
+25-Decompomdo URL
+</pre>
+</details>
 
 #### Seção 11: Avançando em Arrays
 
