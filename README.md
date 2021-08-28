@@ -72,7 +72,45 @@ O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o p
 </pre>
 </details>
 
-#### Seção 5: Expressões e Operadores
+---
+
+<details>
+<summary>Seção 5: Expressões e Operadores</summary>
+<br>
+<br><br>
+<pre>
+1-Ordem dos Operadores
+2-Exercício 1
+3-Mudança de Tipo Implícito
+4-Exercício 2
+5-Operadores Aritmeticos
+6-Exercício 3
+7-Operador de Módulo
+8-Exercício 4 
+9-Operador de Exponenciação
+10-Operador de Concatenação
+11-Exercício 5 
+12-Operador de AutoIncremento e Decremento
+13-Operador de Igualdade
+14-Exercício 6 
+15-Operador identico
+16-Operador de diferença
+17-Operador não identico
+18-Exercício 7
+19-Operador de Maior ou =
+20-Operador de Menor ou =
+21-Operador AND
+22-Exercício 8
+23-Operador OR
+24-Exercício 9
+25-Operador NOT
+26-Operador Cast
+27-Exercício 10
+28-Operador de Atribuição
+29-Operador ternario
+30-Exercício 11
+</pre>
+</details>
 
 #### Seção 6: Estruturas de Controle
 
