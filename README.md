@@ -1,13 +1,18 @@
 # Curso de PHP do Básico ao Avançado
 
 #### Seção 1: Introdução
-
-<detalhes>
-<summary> Título </summary>
-    + lista de remarcação 1
-        + lista aninhada 1
-        + lista aninhada 2
-    + lista de remarcação 2
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+<br><br>
+<pre>
+&lt;details&gt;
+&lt;summary&gt;How do I dropdown?&lt;&#47;summary&gt;
+&lt;br&gt;
+This is how you dropdown.
+&lt;&#47;details&gt;
+</pre>
 </details>
 
 #### Seção 4: Variáveis.
