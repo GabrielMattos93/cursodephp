@@ -53,7 +53,24 @@ O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o p
 </pre>
 </details>
 
-#### Seção 4: Variáveis.
+---
+
+<details>
+<summary>Seção 4: Variáveis</summary>
+<br>
+<br><br>
+<pre>
+1-Declarando Variáveis
+2-Exercício 1
+3-Exercício 2
+4-Variável de Variável
+5-Variável por Referência
+6-Escopo Local
+7-Escopo Global
+8-Escopo static
+9-Escopo dos Parâmetros 
+</pre>
+</details>
 
 #### Seção 5: Expressões e Operadores
 
