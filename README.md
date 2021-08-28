@@ -5,6 +5,10 @@
 <br>
 O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o php em localhost
 <br><br>
+<pre>
+
+</pre>
+</details>
 
 #### Seção 4: Variáveis.
 
