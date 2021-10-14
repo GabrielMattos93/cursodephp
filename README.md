@@ -287,6 +287,10 @@ O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o p
 3-Instânciado objetos
 4-exercício 1 
 5-método
+6-exercício2
+7-propriedades
+8-exercício3
+9-this
 </pre>
 </details>
 
