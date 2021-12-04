@@ -298,6 +298,8 @@ O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o p
 14-exercício 5
 15-ancestralidade
 16-interfaces
+17-traits
+18-Métodos e classes abstratas
 </pre>
 </details>
 
