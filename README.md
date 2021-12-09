@@ -300,6 +300,24 @@ O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o p
 16-interfaces
 17-traits
 18-Métodos e classes abstratas
+19-construct
+20-exercicio 6
+21-classes anônimas
+22-Verificando Classes
+23-Verificando Objetos
 </pre>
 </details>
 
+---
+
+<details>
+<summary>Seção 13: Trabalhando com Datas</summary>
+<br>
+<br><br>
+<pre>
+1-funçao-date
+2-funcao-strtotime
+
+
+</pre>
+</details>
