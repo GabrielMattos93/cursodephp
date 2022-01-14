@@ -14,6 +14,6 @@ echo $dezdias . "<br>";
 
 //Data atual + 5 
 
-$dataatual = date('d/m/y', $cincodias); 
+$dataatualMaiscinco = date('d/m/y', $cincodias); 
 
-echo $dataatual; 
+echo $dataatualMaiscinco . "<br>"; 
