@@ -1,9 +1,11 @@
 <?php
 
-$d = date('d/m/y'); // day,  month, year
+$data = date('d/m/y');  // day / mouth/ year
+echo $data . "<br>"; 
 
-echo $d . "<br>"; 
+$date2 = date('d,M - Y'); 
 
-$d2 = date('D/m/Y'); 
+echo $date2 . "<br>"; 
 
-echo $d2 . "<br>"; 
+$date3 = date('D/M/Y');
+echo $date3;  
