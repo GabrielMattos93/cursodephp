@@ -317,7 +317,12 @@ O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o p
 <pre>
 1-funçao-date
 2-funcao-strtotime
-
-
+3-funcao-mktime
+4-Objeto-datetime
+5-format-e-modify
+6-Setdate e Settime
+7-Diferença entre datas
+8-Comparando datas
+9-Alterando fuso horário
 </pre>
 </details>
