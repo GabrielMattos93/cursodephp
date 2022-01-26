@@ -334,7 +334,9 @@ O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o p
 <br>
 <br><br>
 <pre>
-1-
+1-Server
+2-Formulário com GET
+3-
 
 </pre>
 </details>
