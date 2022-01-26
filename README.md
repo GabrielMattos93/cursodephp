@@ -326,3 +326,15 @@ O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o p
 9-Alterando fuso horário
 </pre>
 </details>
+
+---
+
+<details>
+<summary>Seção 14: PHP e a Web</summary>
+<br>
+<br><br>
+<pre>
+1-funçao-date
+
+</pre>
+</details>
