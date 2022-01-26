@@ -334,7 +334,7 @@ O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o p
 <br>
 <br><br>
 <pre>
-1-funçao-date
+1-
 
 </pre>
 </details>
