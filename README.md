@@ -336,7 +336,14 @@ O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o p
 <pre>
 1-Server
 2-Formulário com GET
-3-
+3-Formulário com POST
+4-Auto Processamento de Páginas
+5-Preenchendo Formulários
+6-Input com múltiplos valores
+7-Upload de Arquivos
+8-Validação de Formulários
+9-Cookies
+10-session
 
 </pre>
 </details>
