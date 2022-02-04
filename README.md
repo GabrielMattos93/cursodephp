@@ -343,7 +343,7 @@ O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o p
 7-Upload de Arquivos
 8-Validação de Formulários
 9-Cookies
-10-session
+10-Session
 
 </pre>
 </details>
