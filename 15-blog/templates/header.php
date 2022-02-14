@@ -1,4 +1,8 @@
-<?php include_once ('helpers/url.php'); ?>
+<?php 
+include_once ('helpers/url.php'); 
+include_once ('data/categorias.php'); 
+include_once ('data/posts.php'); 
+?>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
