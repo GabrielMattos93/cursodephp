@@ -433,3 +433,15 @@ Na pasta templates, está separado o cabeçalho e o rodapé do projeto.
 
 </pre>
 </details>
+
+---
+
+<details>
+<summary>Seção 16: PHP e Banco de Dados (MySql)</summary>
+<br>
+<br><br>
+<pre>
+1 -
+
+</pre>
+</details>
