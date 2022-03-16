@@ -441,7 +441,11 @@ Na pasta templates, está separado o cabeçalho e o rodapé do projeto.
 <br>
 <br><br>
 <pre>
-1 -
-
+1 - Conexão com Mysqli
+2 - Erro Conexão
+3 - Executando Query
+4 - Criando e Deletando tabela com  mysqli
+5 - Inserindo dados com Mysqli
+6 - Selecionando dados com Mysqli
 </pre>
 </details>
