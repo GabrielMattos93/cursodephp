@@ -447,5 +447,7 @@ Na pasta templates, está separado o cabeçalho e o rodapé do projeto.
 4 - Criando e Deletando tabela com  mysqli
 5 - Inserindo dados com Mysqli
 6 - Selecionando dados com Mysqli
+7 - Inserindo dados com prepared statements
+
 </pre>
 </details>
