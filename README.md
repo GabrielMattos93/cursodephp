@@ -448,6 +448,23 @@ Na pasta templates, está separado o cabeçalho e o rodapé do projeto.
 5 - Inserindo dados com Mysqli
 6 - Selecionando dados com Mysqli
 7 - Inserindo dados com prepared statements
+8 - Selecionando dados com prepared statements
+9 - Resgatando dados com mysqli
+10 -Atualizando dados com prepared statements
+11- Deletando dados com prepared statements
+12- Conexão com PDO
+13 -Inserindo dados com PDO
+14- Atualizando dados com PDO
+</pre>
+</details>
 
+---
+
+<details>
+<summary>Seção 17: Projeto Agenda</summary>
+<br>
+<br><br>
+<pre>
+1 - 
 </pre>
 </details>
