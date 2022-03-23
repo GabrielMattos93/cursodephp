@@ -461,10 +461,72 @@ Na pasta templates, está separado o cabeçalho e o rodapé do projeto.
 ---
 
 <details>
-<summary>Seção 17: Projeto Agenda</summary>
+<summary>Seção 17: Projeto 2: Agenda</summary>
 <br>
 <br><br>
 <pre>
-1 - 
+# Agenda de Contato PHP
+
+Projeto - Agenda de Contato PHP
+Versão - 1.0
+
+***
+
+ ### Linguagens Ultilizadas
+
+ Html5<br>
+ CSS3<br>
+ PHP8<br>
+ SQL<br>
+
+ ### Frameworks e Bibliotecas
+
+Font awesome<br>
+Bootstrap<br>
+Fontes Ultilizadas: 
+
+<details>
+<summary>Introdução</summary>
+<br>
+<br><br>
+<pre>
+Este é o projeto de uma agenda, onde uma empresa pode cadastrar informações de contato dos seus fornecedores. 
 </pre>
 </details>
+
+---
+
+<details>
+<summary>Estrutura da Pasta Assets</summary>
+<br>
+<br><br>
+<pre>
+Na pasta assets estão todos os arquivos de imagem e estilização usados no site.
+css
+img
+</pre>
+</details>
+
+---
+
+<details>
+<summary>Estrutura da Pasta Config</summary>
+<br>
+<br><br>
+<pre>
+Na pasta config está todos os arquivos de configuração do projeto. 
+</pre>
+</details>
+
+---
+
+<details>
+<summary>Estrutura da Pasta Templates</summary>
+<br>
+<br><br>
+<pre>
+Na pasta template está todos os arquivos de layout do site. 
+
+</pre>
+</details>
+
