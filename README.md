@@ -544,6 +544,6 @@ Na pasta template está todos os arquivos de layout do site.
 6 - Criando a classe
 7 - Criando a classe DAO
 8 - Inserindo dados com DAO
-9 - Selecionando dados com DAOl]
+9 - Selecionando dados com DAO
 </pre>
 </details>
