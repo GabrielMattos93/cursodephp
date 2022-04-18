@@ -483,7 +483,6 @@ Versão - 1.0
 
 Font awesome<br>
 Bootstrap<br>
-Fontes Ultilizadas: 
 
 <details>
 <summary>Introdução</summary>
@@ -530,3 +529,21 @@ Na pasta template está todos os arquivos de layout do site.
 </pre>
 </details>
 
+---
+
+<details>
+<summary>Seção 18: Designer Patterns e Padrões de Desenvolvimento</summary>
+<br>
+<br><br>
+<pre>
+1 - Intro da seção
+2 - O que é DAO
+3 - DAO na teoria
+4 - Interface no DAO
+5 - Configuração Base no DAO
+6 - Criando a classe
+7 - Criando a classe DAO
+8 - Inserindo dados com DAO
+9 - Selecionando dados com DAO
+</pre>
+</details>
